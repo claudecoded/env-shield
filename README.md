@@ -1,6 +1,6 @@
 # 🛡️ Env-Shield
 
-![License](https://img.shields.io/badge/license-EPL%202.0-green.svg?style=flat)  ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-yellow.svg?style=social)  ![License](https://img.shields.io/badge/license-BSD%203--Clause-orange.svg?style=for-the-badge)
+![License](https://img.shields.io/badge/license-EPL%202.0-green.svg?style=flat)  ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-yellow.svg?style=social)  ![License](https://img.shields.io/badge/license-BSD%203--Clause-orange.svg?style=for-the-badge)  ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)
 
 Give your workspace absolute infrastructure superpowers. **Env-Shield** is a smart, zero-config environment validation engine and native Git `pre-commit` hook that completely eliminates the *"it broke on my machine because someone forgot to share a new `.env` key"* headache, while strictly guarding your repositories against dangerous production credential leaks.
 
